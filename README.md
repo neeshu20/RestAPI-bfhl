@@ -12,3 +12,9 @@
 8. **Special Characters Array** – Characters that are neither numeric nor alphabetic.  
 9. **Sum of Numbers** – Sum of all valid numeric inputs.  
 10. **Reverse Concatenated Alternating-Caps String** – Concatenation of all alphabetic characters in the input, reversed, with alternating capitalization (e.g., `aBcDe`).
+
+### 📸 Testing with Postman
+
+![Screenshot 1](./testing_screenshot/Screenshot%202025-07-29%20214054.png)
+![Screenshot 2](./testing_screenshot/Screenshot%202025-07-29%20214205.png)
+![Screenshot 3](./testing_screenshot/Screenshot%202025-07-29%20214319.png)
