@@ -15,6 +15,6 @@
 
 ### 📸 Testing with Postman
 
-![Screenshot 1](./testing_screenshot/Screenshot%202025-07-29%20214054.png)
+![Screenshot 1](./testing screenshot/Screenshot 2025-07-29 214054.png)
 ![Screenshot 2](./testing_screenshot/Screenshot%202025-07-29%20214205.png)
 ![Screenshot 3](./testing_screenshot/Screenshot%202025-07-29%20214319.png)
